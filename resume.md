@@ -1,5 +1,5 @@
 # Colin Thomas
-- Email: cmthomas@mines.edu
+- **Email: cmthomas@mines.edu**
 - Location: Lakewood, CO
 
 ## Education
@@ -10,3 +10,6 @@
 - Python
 - Excel
 - Scientific Computing
+- Data processing
+
+![Alt text](https://www.rawpixel.com/image/6287956/png-sticker-vintage)
