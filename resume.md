@@ -3,7 +3,7 @@
 - Location: Lakewood, CO
 
 ## Education
-- BSc. Geophysical Engineering, <CSM href="https://mines.edu">Click here</a>
+- BSc. Geophysical Engineering, [Click here](https://mines.edu)
  (2025)
 - St. Mary's Ryken High School (2019)
 
