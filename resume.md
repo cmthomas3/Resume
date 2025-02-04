@@ -3,7 +3,8 @@
 - Location: Lakewood, CO
 
 ## Education
-- BSc. Geophysical Engineering, Colorado School of Mines (2025)
+- BSc. Geophysical Engineering, <CSM href="https://mines.edu">Click here</a>
+ (2025)
 - St. Mary's Ryken High School (2019)
 
 ## Skills
@@ -12,4 +13,4 @@
 - Scientific Computing
 - Data processing
 
-![Alt text](https://www.rawpixel.com/image/6287956/png-sticker-vintage)
+![Alt text](/EarthPic.jpg)
